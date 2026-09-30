@@ -1,0 +1,2 @@
+hello
+git init -b main -- will create a main branch
